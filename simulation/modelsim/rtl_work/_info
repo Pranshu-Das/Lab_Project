@@ -1,0 +1,132 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Academic Courses_Year_1to5/2nd_Year/EE 214 DIGITAL CIRCUITS LAB/LAB_Project/simulation/modelsim
+Eseven_seg_decoder
+Z1 w1792680206
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8D:/Academic Courses_Year_1to5/2nd_Year/EE 214 DIGITAL CIRCUITS LAB/LAB_Project/seven_seg_decoder.vhd
+Z5 FD:/Academic Courses_Year_1to5/2nd_Year/EE 214 DIGITAL CIRCUITS LAB/LAB_Project/seven_seg_decoder.vhd
+l0
+L4
+VMJL3Yge_e]dQbSiKEJRmz2
+!s100 4P3cK_EaQCCSTOl`g6<9=1
+Z6 OV;C;10.5b;63
+31
+Z7 !s110 1792681041
+!i10b 1
+Z8 !s108 1792681041.000000
+Z9 !s90 -reportprogress|300|-93|-work|work|D:/Academic Courses_Year_1to5/2nd_Year/EE 214 DIGITAL CIRCUITS LAB/LAB_Project/seven_seg_decoder.vhd|
+Z10 !s107 D:/Academic Courses_Year_1to5/2nd_Year/EE 214 DIGITAL CIRCUITS LAB/LAB_Project/seven_seg_decoder.vhd|
+!i113 1
+Z11 o-93 -work work
+Z12 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+Z13 DEx4 work 17 seven_seg_decoder 0 22 MJL3Yge_e]dQbSiKEJRmz2
+l12
+L11
+V?AghcRCa;b3SZEjML2C;E3
+!s100 ?Xe2Yn]>SK2<G[DF8YkJM1
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eseven_seg_scroll
+Z14 w1792680293
+Z15 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R2
+R3
+R0
+Z16 8D:/Academic Courses_Year_1to5/2nd_Year/EE 214 DIGITAL CIRCUITS LAB/LAB_Project/seven_seg_scroll.vhd
+Z17 FD:/Academic Courses_Year_1to5/2nd_Year/EE 214 DIGITAL CIRCUITS LAB/LAB_Project/seven_seg_scroll.vhd
+l0
+L5
+VMo`4^mHIaY=_4Kb_]CiJB3
+!s100 KYJHzEonIVAjPBRM8X7H81
+R6
+31
+R7
+!i10b 1
+R8
+Z18 !s90 -reportprogress|300|-93|-work|work|D:/Academic Courses_Year_1to5/2nd_Year/EE 214 DIGITAL CIRCUITS LAB/LAB_Project/seven_seg_scroll.vhd|
+Z19 !s107 D:/Academic Courses_Year_1to5/2nd_Year/EE 214 DIGITAL CIRCUITS LAB/LAB_Project/seven_seg_scroll.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R13
+R15
+R2
+R3
+Z20 DEx4 work 16 seven_seg_scroll 0 22 Mo`4^mHIaY=_4Kb_]CiJB3
+l53
+L16
+VSOH^TNF0og`kLnhlkd=gj0
+!s100 Vl>nn_eTd5hG:54Z5D2=Y3
+R6
+31
+R7
+!i10b 1
+R8
+R18
+R19
+!i113 1
+R11
+R12
+Etb_seven_seg_scroll
+Z21 w1792680349
+R2
+R3
+R0
+Z22 8D:/Academic Courses_Year_1to5/2nd_Year/EE 214 DIGITAL CIRCUITS LAB/LAB_Project/tb_seven_seg_scroll.vhd
+Z23 FD:/Academic Courses_Year_1to5/2nd_Year/EE 214 DIGITAL CIRCUITS LAB/LAB_Project/tb_seven_seg_scroll.vhd
+l0
+L4
+VRNBF4fd3mEXE37noEALkM0
+!s100 D^H<5J>jS9BdO33LZ`^D20
+R6
+31
+R7
+!i10b 1
+R8
+Z24 !s90 -reportprogress|300|-93|-work|work|D:/Academic Courses_Year_1to5/2nd_Year/EE 214 DIGITAL CIRCUITS LAB/LAB_Project/tb_seven_seg_scroll.vhd|
+Z25 !s107 D:/Academic Courses_Year_1to5/2nd_Year/EE 214 DIGITAL CIRCUITS LAB/LAB_Project/tb_seven_seg_scroll.vhd|
+!i113 1
+R11
+R12
+Asim
+R15
+R20
+R2
+R3
+DEx4 work 19 tb_seven_seg_scroll 0 22 RNBF4fd3mEXE37noEALkM0
+l14
+L7
+V=1o=KXJ4@7dzCT`UL;<kI1
+!s100 ZTHXebPeFM6iB]3;[58OC2
+R6
+31
+R7
+!i10b 1
+R8
+R24
+R25
+!i113 1
+R11
+R12
